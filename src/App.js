@@ -23,7 +23,7 @@ const App = () => {
         </form>
       </div>
 
-      <div className=" absolute w-[650px] h-[1143px] top-[-115px] left-[999px] bg-[#DA211C] transform  z-0 rotate-[-28.89]"></div>
+      <div className=" absolute w-[650px] h-[1143px] top-[-115px] left-[999px] bg-[#DA211C] transform  z-0 rotate-29"></div>
     </div>
   );
 };
